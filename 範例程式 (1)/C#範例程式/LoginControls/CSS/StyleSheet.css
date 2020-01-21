@@ -1,0 +1,41 @@
+﻿
+
+#header
+{
+	background-image: url('../Images/Top.gif');
+	background-position: left Top;
+	background-repeat: no-repeat;
+}
+
+#footer
+{
+	
+	background-position:left bottom;
+	background-repeat: no-repeat;
+    background-image: url('../Images/bottom.gif');
+}
+
+.PinkStyle
+{
+	background-color: #CCFF99;
+}
+
+.GreenRow
+{
+	background-color:#CCFF99;
+}
+
+.loginPosition
+{
+	font-family: 微軟正黑體;
+	font-size: small;
+	/*position:fixed;*/
+	width: 100%;
+	height: 100%;
+}
+
+.BodyBackground
+{
+	z-index: 1;
+	background-image: url('../Images/GlassBG.gif');
+}
